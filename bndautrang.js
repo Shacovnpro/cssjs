@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://facetlt.blogspot.com/' target='_blank'><img src='https://lh4.googleusercontent.com/-ZBe3so5O5hw/V8QJ3_QQaDI/AAAAAAAAG_k/a1bkdI1AE6k4wNUjg68Zk2f5QETzsO4nACL0B/w212-h300-no/hot-girl-rua-bat-blogtamsuvn-51.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://facetlt.blogspot.com/' target='_blank'><img src='https://lh4.googleusercontent.com/-ZBe3so5O5hw/V8QJ3_QQaDI/AAAAAAAAG_k/a1bkdI1AE6k4wNUjg68Zk2f5QETzsO4nACL0B/w212-h300-no/hot-girl-rua-bat-blogtamsuvn-51.jpg' width='500px'/><br/>Tinh Bột Nghệ Nguyên Chất</a>. Giúp làm làn da trắng sáng tự nhiên. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
